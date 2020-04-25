@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomDeckGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/RandomDeckGenerator</output-path>
+    <root id="archive" name="RandomDeckGenerator.jar">
+      <element id="module-output" name="RandomDeck" />
+    </root>
+  </artifact>
+</component>
